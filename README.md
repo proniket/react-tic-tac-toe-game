@@ -1,3 +1,28 @@
+# React-Tic-Tac-Toe-App
+
+### [Live Site](https://proniket.github.io/react-tic-tac-toe-game/)
+
+![React-Tic-Tac-Toe-App](https://i.ibb.co/HNmhqzm/react-tic-tac-toe-game-1.png)
+
+## Introduction
+
+
+
+## Stack
+Reactjs, React Hook, Javascript,  CSS
+
+
+## Contributors
+Aniket Gupta (Proniket)
+
+
+
+## Stage
+version 1.0.0 - completed
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
